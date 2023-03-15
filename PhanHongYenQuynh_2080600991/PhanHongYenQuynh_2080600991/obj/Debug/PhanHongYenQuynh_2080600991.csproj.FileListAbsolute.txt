@@ -102,11 +102,12 @@ E:\TAI LIEU HOC\BAI GIANG\Thuc hanh lap trinh web\PROJECT 3 4 5 6\PhanHongYenQuy
 E:\TAI LIEU HOC\BAI GIANG\Thuc hanh lap trinh web\PROJECT 3 4 5 6\PhanHongYenQuynh_2080600991\PhanHongYenQuynh_2080600991\bin\Microsoft.Owin.Security.OAuth.xml
 E:\TAI LIEU HOC\BAI GIANG\Thuc hanh lap trinh web\PROJECT 3 4 5 6\PhanHongYenQuynh_2080600991\PhanHongYenQuynh_2080600991\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 E:\TAI LIEU HOC\BAI GIANG\Thuc hanh lap trinh web\PROJECT 3 4 5 6\PhanHongYenQuynh_2080600991\PhanHongYenQuynh_2080600991\obj\Debug\PhanHongYenQuynh_2080600991.csproj.AssemblyReference.cache
+E:\TAI LIEU HOC\BAI GIANG\Thuc hanh lap trinh web\PROJECT 3 4 5 6\PhanHongYenQuynh_2080600991\PhanHongYenQuynh_2080600991\obj\Debug\PhanHongYenQuynh_2080600991.Migrations.Khoitaoxacthuc.resources
+E:\TAI LIEU HOC\BAI GIANG\Thuc hanh lap trinh web\PROJECT 3 4 5 6\PhanHongYenQuynh_2080600991\PhanHongYenQuynh_2080600991\obj\Debug\PhanHongYenQuynh_2080600991.Migrations.CreateTableCourse.resources
+E:\TAI LIEU HOC\BAI GIANG\Thuc hanh lap trinh web\PROJECT 3 4 5 6\PhanHongYenQuynh_2080600991\PhanHongYenQuynh_2080600991\obj\Debug\PhanHongYenQuynh_2080600991.Migrations.PopulateCategoryTable.resources
+E:\TAI LIEU HOC\BAI GIANG\Thuc hanh lap trinh web\PROJECT 3 4 5 6\PhanHongYenQuynh_2080600991\PhanHongYenQuynh_2080600991\obj\Debug\PhanHongYenQuynh_2080600991.Migrations.AddNameColumnToApplicationUser.resources
+E:\TAI LIEU HOC\BAI GIANG\Thuc hanh lap trinh web\PROJECT 3 4 5 6\PhanHongYenQuynh_2080600991\PhanHongYenQuynh_2080600991\obj\Debug\PhanHongYenQuynh_2080600991.csproj.GenerateResource.cache
 E:\TAI LIEU HOC\BAI GIANG\Thuc hanh lap trinh web\PROJECT 3 4 5 6\PhanHongYenQuynh_2080600991\PhanHongYenQuynh_2080600991\obj\Debug\PhanHongYenQuynh_2080600991.csproj.CoreCompileInputs.cache
 E:\TAI LIEU HOC\BAI GIANG\Thuc hanh lap trinh web\PROJECT 3 4 5 6\PhanHongYenQuynh_2080600991\PhanHongYenQuynh_2080600991\obj\Debug\PhanHongYenQuynh_2080600991.csproj.CopyComplete
 E:\TAI LIEU HOC\BAI GIANG\Thuc hanh lap trinh web\PROJECT 3 4 5 6\PhanHongYenQuynh_2080600991\PhanHongYenQuynh_2080600991\obj\Debug\PhanHongYenQuynh_2080600991.dll
 E:\TAI LIEU HOC\BAI GIANG\Thuc hanh lap trinh web\PROJECT 3 4 5 6\PhanHongYenQuynh_2080600991\PhanHongYenQuynh_2080600991\obj\Debug\PhanHongYenQuynh_2080600991.pdb
-E:\TAI LIEU HOC\BAI GIANG\Thuc hanh lap trinh web\PROJECT 3 4 5 6\PhanHongYenQuynh_2080600991\PhanHongYenQuynh_2080600991\obj\Debug\PhanHongYenQuynh_2080600991.Migrations.Khoitaoxacthuc.resources
-E:\TAI LIEU HOC\BAI GIANG\Thuc hanh lap trinh web\PROJECT 3 4 5 6\PhanHongYenQuynh_2080600991\PhanHongYenQuynh_2080600991\obj\Debug\PhanHongYenQuynh_2080600991.csproj.GenerateResource.cache
-E:\TAI LIEU HOC\BAI GIANG\Thuc hanh lap trinh web\PROJECT 3 4 5 6\PhanHongYenQuynh_2080600991\PhanHongYenQuynh_2080600991\obj\Debug\PhanHongYenQuynh_2080600991.Migrations.CreateTableCourse.resources
-E:\TAI LIEU HOC\BAI GIANG\Thuc hanh lap trinh web\PROJECT 3 4 5 6\PhanHongYenQuynh_2080600991\PhanHongYenQuynh_2080600991\obj\Debug\PhanHongYenQuynh_2080600991.Migrations.PopulateCategoryTable.resources
