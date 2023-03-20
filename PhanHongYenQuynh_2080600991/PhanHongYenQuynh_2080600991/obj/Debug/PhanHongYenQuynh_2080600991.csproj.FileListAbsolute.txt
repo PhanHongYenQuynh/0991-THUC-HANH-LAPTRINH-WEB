@@ -69,7 +69,10 @@ E:\TAI LIEU HOC\BAI GIANG\Thuc hanh lap trinh web\PROJECT 3 4 5 6\PhanHongYenQuy
 E:\TAI LIEU HOC\BAI GIANG\Thuc hanh lap trinh web\PROJECT 3 4 5 6\PhanHongYenQuynh_2080600991\PhanHongYenQuynh_2080600991\bin\Microsoft.Web.Infrastructure.dll
 E:\TAI LIEU HOC\BAI GIANG\Thuc hanh lap trinh web\PROJECT 3 4 5 6\PhanHongYenQuynh_2080600991\PhanHongYenQuynh_2080600991\bin\Newtonsoft.Json.dll
 E:\TAI LIEU HOC\BAI GIANG\Thuc hanh lap trinh web\PROJECT 3 4 5 6\PhanHongYenQuynh_2080600991\PhanHongYenQuynh_2080600991\bin\Owin.dll
+E:\TAI LIEU HOC\BAI GIANG\Thuc hanh lap trinh web\PROJECT 3 4 5 6\PhanHongYenQuynh_2080600991\PhanHongYenQuynh_2080600991\bin\System.Net.Http.Formatting.dll
 E:\TAI LIEU HOC\BAI GIANG\Thuc hanh lap trinh web\PROJECT 3 4 5 6\PhanHongYenQuynh_2080600991\PhanHongYenQuynh_2080600991\bin\System.Web.Helpers.dll
+E:\TAI LIEU HOC\BAI GIANG\Thuc hanh lap trinh web\PROJECT 3 4 5 6\PhanHongYenQuynh_2080600991\PhanHongYenQuynh_2080600991\bin\System.Web.Http.dll
+E:\TAI LIEU HOC\BAI GIANG\Thuc hanh lap trinh web\PROJECT 3 4 5 6\PhanHongYenQuynh_2080600991\PhanHongYenQuynh_2080600991\bin\System.Web.Http.WebHost.dll
 E:\TAI LIEU HOC\BAI GIANG\Thuc hanh lap trinh web\PROJECT 3 4 5 6\PhanHongYenQuynh_2080600991\PhanHongYenQuynh_2080600991\bin\System.Web.Mvc.dll
 E:\TAI LIEU HOC\BAI GIANG\Thuc hanh lap trinh web\PROJECT 3 4 5 6\PhanHongYenQuynh_2080600991\PhanHongYenQuynh_2080600991\bin\System.Web.Optimization.dll
 E:\TAI LIEU HOC\BAI GIANG\Thuc hanh lap trinh web\PROJECT 3 4 5 6\PhanHongYenQuynh_2080600991\PhanHongYenQuynh_2080600991\bin\System.Web.Razor.dll
@@ -77,6 +80,9 @@ E:\TAI LIEU HOC\BAI GIANG\Thuc hanh lap trinh web\PROJECT 3 4 5 6\PhanHongYenQuy
 E:\TAI LIEU HOC\BAI GIANG\Thuc hanh lap trinh web\PROJECT 3 4 5 6\PhanHongYenQuynh_2080600991\PhanHongYenQuynh_2080600991\bin\System.Web.WebPages.dll
 E:\TAI LIEU HOC\BAI GIANG\Thuc hanh lap trinh web\PROJECT 3 4 5 6\PhanHongYenQuynh_2080600991\PhanHongYenQuynh_2080600991\bin\System.Web.WebPages.Razor.dll
 E:\TAI LIEU HOC\BAI GIANG\Thuc hanh lap trinh web\PROJECT 3 4 5 6\PhanHongYenQuynh_2080600991\PhanHongYenQuynh_2080600991\bin\WebGrease.dll
+E:\TAI LIEU HOC\BAI GIANG\Thuc hanh lap trinh web\PROJECT 3 4 5 6\PhanHongYenQuynh_2080600991\PhanHongYenQuynh_2080600991\bin\System.Net.Http.Formatting.xml
+E:\TAI LIEU HOC\BAI GIANG\Thuc hanh lap trinh web\PROJECT 3 4 5 6\PhanHongYenQuynh_2080600991\PhanHongYenQuynh_2080600991\bin\System.Web.Http.xml
+E:\TAI LIEU HOC\BAI GIANG\Thuc hanh lap trinh web\PROJECT 3 4 5 6\PhanHongYenQuynh_2080600991\PhanHongYenQuynh_2080600991\bin\System.Web.Http.WebHost.xml
 E:\TAI LIEU HOC\BAI GIANG\Thuc hanh lap trinh web\PROJECT 3 4 5 6\PhanHongYenQuynh_2080600991\PhanHongYenQuynh_2080600991\bin\System.Web.Helpers.xml
 E:\TAI LIEU HOC\BAI GIANG\Thuc hanh lap trinh web\PROJECT 3 4 5 6\PhanHongYenQuynh_2080600991\PhanHongYenQuynh_2080600991\bin\System.Web.Mvc.xml
 E:\TAI LIEU HOC\BAI GIANG\Thuc hanh lap trinh web\PROJECT 3 4 5 6\PhanHongYenQuynh_2080600991\PhanHongYenQuynh_2080600991\bin\System.Web.Optimization.xml
@@ -106,8 +112,15 @@ E:\TAI LIEU HOC\BAI GIANG\Thuc hanh lap trinh web\PROJECT 3 4 5 6\PhanHongYenQuy
 E:\TAI LIEU HOC\BAI GIANG\Thuc hanh lap trinh web\PROJECT 3 4 5 6\PhanHongYenQuynh_2080600991\PhanHongYenQuynh_2080600991\obj\Debug\PhanHongYenQuynh_2080600991.Migrations.CreateTableCourse.resources
 E:\TAI LIEU HOC\BAI GIANG\Thuc hanh lap trinh web\PROJECT 3 4 5 6\PhanHongYenQuynh_2080600991\PhanHongYenQuynh_2080600991\obj\Debug\PhanHongYenQuynh_2080600991.Migrations.PopulateCategoryTable.resources
 E:\TAI LIEU HOC\BAI GIANG\Thuc hanh lap trinh web\PROJECT 3 4 5 6\PhanHongYenQuynh_2080600991\PhanHongYenQuynh_2080600991\obj\Debug\PhanHongYenQuynh_2080600991.Migrations.AddNameColumnToApplicationUser.resources
+E:\TAI LIEU HOC\BAI GIANG\Thuc hanh lap trinh web\PROJECT 3 4 5 6\PhanHongYenQuynh_2080600991\PhanHongYenQuynh_2080600991\obj\Debug\PhanHongYenQuynh_2080600991.Migrations.AddAttendance.resources
+E:\TAI LIEU HOC\BAI GIANG\Thuc hanh lap trinh web\PROJECT 3 4 5 6\PhanHongYenQuynh_2080600991\PhanHongYenQuynh_2080600991\obj\Debug\PhanHongYenQuynh_2080600991.Migrations.UpdateNew.resources
+E:\TAI LIEU HOC\BAI GIANG\Thuc hanh lap trinh web\PROJECT 3 4 5 6\PhanHongYenQuynh_2080600991\PhanHongYenQuynh_2080600991\obj\Debug\PhanHongYenQuynh_2080600991.Migrations.AddFollowingsTable.resources
+E:\TAI LIEU HOC\BAI GIANG\Thuc hanh lap trinh web\PROJECT 3 4 5 6\PhanHongYenQuynh_2080600991\PhanHongYenQuynh_2080600991\obj\Debug\PhanHongYenQuynh_2080600991.Migrations.AddIsCanceledColumnToCourse.resources
 E:\TAI LIEU HOC\BAI GIANG\Thuc hanh lap trinh web\PROJECT 3 4 5 6\PhanHongYenQuynh_2080600991\PhanHongYenQuynh_2080600991\obj\Debug\PhanHongYenQuynh_2080600991.csproj.GenerateResource.cache
 E:\TAI LIEU HOC\BAI GIANG\Thuc hanh lap trinh web\PROJECT 3 4 5 6\PhanHongYenQuynh_2080600991\PhanHongYenQuynh_2080600991\obj\Debug\PhanHongYenQuynh_2080600991.csproj.CoreCompileInputs.cache
 E:\TAI LIEU HOC\BAI GIANG\Thuc hanh lap trinh web\PROJECT 3 4 5 6\PhanHongYenQuynh_2080600991\PhanHongYenQuynh_2080600991\obj\Debug\PhanHongYenQuynh_2080600991.csproj.CopyComplete
 E:\TAI LIEU HOC\BAI GIANG\Thuc hanh lap trinh web\PROJECT 3 4 5 6\PhanHongYenQuynh_2080600991\PhanHongYenQuynh_2080600991\obj\Debug\PhanHongYenQuynh_2080600991.dll
 E:\TAI LIEU HOC\BAI GIANG\Thuc hanh lap trinh web\PROJECT 3 4 5 6\PhanHongYenQuynh_2080600991\PhanHongYenQuynh_2080600991\obj\Debug\PhanHongYenQuynh_2080600991.pdb
+E:\TAI LIEU HOC\BAI GIANG\Thuc hanh lap trinh web\PROJECT 3 4 5 6\PhanHongYenQuynh_2080600991\PhanHongYenQuynh_2080600991\obj\Debug\PhanHongYenQuynh_2080600991.Migrations.AddNotification.resources
+E:\TAI LIEU HOC\BAI GIANG\Thuc hanh lap trinh web\PROJECT 3 4 5 6\PhanHongYenQuynh_2080600991\PhanHongYenQuynh_2080600991\obj\Debug\PhanHongYenQuynh_2080600991.Migrations.UpdateNotificationType.resources
+E:\TAI LIEU HOC\BAI GIANG\Thuc hanh lap trinh web\PROJECT 3 4 5 6\PhanHongYenQuynh_2080600991\PhanHongYenQuynh_2080600991\obj\Debug\PhanHongYenQuynh_2080600991.Migrations.UpdateAttendance.resources
