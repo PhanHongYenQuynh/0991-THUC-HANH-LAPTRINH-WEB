@@ -16,7 +16,7 @@
     };
 
     var createAttendance = function () {
-        $.post("/api/attendances", { courseId: button.attr("data-course-id") })
+        $.post("/api/attendances", { courseId: button.attr("data-course-id")})
             .done(done)
             .fail(fail);
     };

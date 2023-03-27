@@ -9,7 +9,7 @@ namespace PhanHongYenQuynh_2080600991
         public static void RegisterBundles(BundleCollection bundles)
         {
             bundles.Add(new ScriptBundle("~/bundles/app").Include(
-                       "~/Scripts/app/coursesController.js"));
+                       "~/scripts/app/coursesController.js"));
 
             bundles.Add(new ScriptBundle("~/bundles/jquery").Include(
                         "~/Scripts/jquery-{version}.js"));

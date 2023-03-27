@@ -8,6 +8,7 @@ using System.Web;
 using System.Web.Mvc;
 using System.Web.UI.WebControls;
 using System.Data.Entity;
+using System.Web.Configuration;
 
 namespace PhanHongYenQuynh_2080600991.Controllers
 {
@@ -77,7 +78,22 @@ namespace PhanHongYenQuynh_2080600991.Controllers
             return View(viewModel);
         }
 
-        
+        [Authorize]
+        public ActionResult Following()
+        {
+            var userId = User.Identity.GetUserId();
+            var follows = _dbcontext.Followings
+                .Where(a => a.FollowerId == userId)
+                .Select(a => a.Followee)
+                .ToList();
+            var viewModel = new FollowViewModel
+            {
+                FollowingUser = follows,
+                ShowAction = User.Identity.IsAuthenticated
+            };
+            return View(viewModel);
+        }
+
         [Authorize]
         public ActionResult Mine()
         {

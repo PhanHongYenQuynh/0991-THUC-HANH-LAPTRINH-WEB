@@ -62,47 +62,54 @@
                             url: "/api/attendances/" + button.attr("data-course-id"),
                             method: "DELETE"
                         })
-                        .done(function () {
-                            button
-                                .removeClass("btn-info")
-                                .addClass("btn-default")
-                                .text("Going?");
-                        })
+                            .done(function () {
+                                button
+                                    .removeClass("btn-info")
+                                    .addClass("btn-default")
+                                    .text("Going?");
+                            })
 
-                        .fail(function () {
-                            alert("Something failed");
-                        });
+                            .fail(function () {
+                                alert("Something failed");
+                            });
                     }
-                    
+
                 });
 
-                if (button.hasClass("btn-default")) {
-                    $(".js-toggle-follow").click(function (e) {
-                        var button = $(e.target);
+                $(".js-toggle-follow").click(function (e) {
+                    var button = $(e.target);
+                    if (button.hasClass("btn-default")) {
                         $.post("/api/followings", { followeeId: button.attr("data-user-id") })
                             .done(function () {
-                                button.text("Following");
+                                button
+                                    .removeClass("btn-default")
+                                    .addClass("btn-primary")
+                                    .text("Following");
                             })
                             .fail(function () {
                                 alert("Something failed!");
                             });
-                    });
-                } else {
-                    $.ajax({
-                        url: "/api/followings/" + button.attr("data-user-id"),
-                        method: "DELETE"
-                    })
-                        .done(function () {
-                            button
-                                .text("Follow");
+                    } else {
+                        $.ajax({
+                            url: "/api/followings/" + button.attr("data-user-id"),
+                            method: "DELETE"
                         })
-
-                        .fail(function () {
-                            alert("Something failed");
-                        });
-                }
-               
+                            .done(function () {
+                                button
+                                    .removeClass("btn-primary")
+                                    .addClass("btn-default")
+                                    .text("Follow");
+                            })
+                            .fail(function () {
+                                alert("Something failed!");
+                            });
+                    }
+                });
             });
+
+     
         </script>
-        }
+    }
 </div>
+
+
